@@ -16,6 +16,7 @@
     "@chakra-ui/react": "^2.10.4",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
+    "auth0-lock": "^13.0.0",
     "eslint-config-next": "^14.2.23",
     "framer-motion": "^11.15.0",
     "next": "^14.2.23",
@@ -25,6 +26,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/auth0-lock": "^11.27.9",
     "@types/node": "^20",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
